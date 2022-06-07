@@ -1,6 +1,6 @@
 ### Hey, I'm Diego Patriota! 👨‍💻
 
-- 👨🏾‍💻 Software Engineer at [saqueepague](https://www.saqueepague.com.br/)
+- 👨🏾‍💻 tech lead | Software Engineer at [Dock](https://www.dock.tech/)
 - 🇧🇷 Live in Porto Alegre, Brazil
 - 🌵 Born in Pernambuco ❤
 - 🚀 Currently learning and building apps javascript
