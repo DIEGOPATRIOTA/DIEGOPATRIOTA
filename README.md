@@ -1,6 +1,6 @@
 ### Hey, I'm Diego Patriota! 👨‍💻
 
-- 👨🏾‍💻 Tech Lead | Software Engineer at [Dock](https://www.dock.tech/)
+- 👨🏾‍💻 Software Engineering Specialist at [Dock](https://www.dock.tech/)
 - 🇧🇷 Live in Porto Alegre, Brazil
 - 🌵 Born in Pernambuco ❤
 - 🚀 Always in the process of learning
